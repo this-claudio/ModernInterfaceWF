@@ -1,0 +1,38 @@
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\bin\Debug\netcoreapp3.1\ModernInterface.exe
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\bin\Debug\netcoreapp3.1\ModernInterface.deps.json
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\bin\Debug\netcoreapp3.1\ModernInterface.runtimeconfig.json
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\bin\Debug\netcoreapp3.1\ModernInterface.runtimeconfig.dev.json
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\bin\Debug\netcoreapp3.1\ModernInterface.dll
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\bin\Debug\netcoreapp3.1\ModernInterface.pdb
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.csproj.AssemblyReference.cache
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.Form1.resources
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.Properties.Resources.resources
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.csproj.GenerateResource.cache
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.AssemblyInfoInputs.cache
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.AssemblyInfo.cs
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.csproj.CoreCompileInputs.cache
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.dll
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.pdb
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.genruntimeconfig.cache
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.Form2.resources
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface\ModernInterface\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.Form3.resources
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\bin\Debug\netcoreapp3.1\ModernInterface.exe
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\bin\Debug\netcoreapp3.1\ModernInterface.deps.json
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\bin\Debug\netcoreapp3.1\ModernInterface.runtimeconfig.json
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\bin\Debug\netcoreapp3.1\ModernInterface.runtimeconfig.dev.json
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\bin\Debug\netcoreapp3.1\ModernInterface.dll
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\bin\Debug\netcoreapp3.1\ModernInterface.pdb
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.csproj.AssemblyReference.cache
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.Form1.resources
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.Form2.resources
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.Form3.resources
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.Properties.Resources.resources
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.csproj.GenerateResource.cache
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.AssemblyInfoInputs.cache
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.AssemblyInfo.cs
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.csproj.CoreCompileInputs.cache
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.dll
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.pdb
+C:\Users\silvacla\Google Drive\Linguagens e Projetos\Projetos\C#\ModernInterface Floricultura\ModernInterface\obj\Debug\netcoreapp3.1\ModernInterface.genruntimeconfig.cache
